@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Cemil Aydın"
+title                    : "Cemil Cem Aydın"
 title_separator          : "-"
-name                     : &name "Cemil Aydın"
+name                     : &name "Cemil Cem Aydın"
 description              : &description "Director of Turkish Intellectual Property Crime Department, Turkish National Police"
 url                      : https://cemilaydin60.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -77,7 +77,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Cemil Aydın"
+  name             : "Cemil Cem Aydın"
   avatar           : "cemil.jpg"
   bio              : "Director of Turkish Intellectual Property Crime Department, Turkish National Police"
   location         : "Ankara, Türkiye"
