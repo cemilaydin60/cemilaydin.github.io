@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Cemil Aydın"
 title_separator          : "-"
 name                     : &name "Cemil Aydın"
-description              : &description "Ph.D. student, Computer Science Department, Stanford University"
+description              : &description "Director of Turkish Intellectual Property Crime Department, Turkish National Police"
 url                      : https://cemilaydin.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "cemilaydin60/cemilaydin.github.io"
@@ -78,9 +78,9 @@ analytics:
 # Site Author
 author:
   name             : "Cemil Aydin"
-  avatar           : "lantaoyu.jpg"
-  bio              : "Ph.D. student, Computer Science Department, Stanford University"
-  location         : "Stanford, California"
+  avatar           : "cemil.jpg"
+  bio              : "Director of Turkish Intellectual Property Crime Department, Turkish National Police"
+  location         : "Ankara, Türkiye"
   employer         : 
   googlescholar    : "https://scholar.google.com/citations?user=Ixg9n-EAAAAJ&hl=en"
   email            : "lantaoyu@cs.stanford.edu"
